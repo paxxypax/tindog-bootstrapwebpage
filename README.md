@@ -1,2 +1,2 @@
 # tindog-bootstrapwebpage
-Intro to Bootstrap Module from Angela Yu's Web Dev 2021 Bootcamp
+This is a project from Angela Yu's Web Development 2021 Bootcamp using Bootstrap 4 in the modules "Introduction to Bootstrap" & "Intermediate Bootstrap". 
